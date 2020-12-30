@@ -5,3 +5,7 @@ I will be using this to add useful scripts that I develop as part of my learning
 ## Structure
 
 I will create a simple folder structure using README.md files but may extend or improve that process going forward.
+
+## Adding a new change to test branch rename
+
+I have renamed my main branch to master and want to ensure that everything works as expected.
